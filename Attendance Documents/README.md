@@ -1,0 +1,1 @@
+This directory is meant to contain public records of meeting and workshop attendance.

@@ -1,0 +1,1 @@
+This directory contains other internal documents, if need be, new directories can be created in the root and things can be moved to them.
