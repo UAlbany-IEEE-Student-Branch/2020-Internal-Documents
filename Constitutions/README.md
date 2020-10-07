@@ -21,5 +21,5 @@ Consitution names take the form
 #### RevisionNumber
 The revision number of the document. +1 for new draft.
 
-#Name
+#### Name
 Whatever you want it to be, typically the name of the current chair followed by " Consitution".
